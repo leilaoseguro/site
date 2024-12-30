@@ -32,3 +32,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+function avisoAppAndroid() {
+  alert("Em fase final de publicação na Google PlayStore para o Android.");
+}
