@@ -10984,7 +10984,7 @@ section.cta:before {
 .features-device-mockup .circle {
   position: absolute;
   left: 0;
-  fill: url(#circleGradient);
+  fill: url(.circleGradient);
   width: 70%;
   display: none;
 }
@@ -11096,7 +11096,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 .masthead .masthead-device-mockup .circle {
   position: absolute;
-  fill: url(#circleGradient);
+  fill: url(.circleGradient);
   width: 70%;
   display: none;
 }
